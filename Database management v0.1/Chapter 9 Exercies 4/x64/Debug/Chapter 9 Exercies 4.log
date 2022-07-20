@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Chapter 9 Exercies 4.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+C:\C++ programm\Chapter 9 Exercies 4 Я ГОРЖУСЬ\Chapter 9 Exercies 4\Source.cpp(167): warning C4715: Book_stream::get: значение возвращается не при всех путях выполнения
+  Chapter 9 Exercies 4.vcxproj -> C:\C++ programm\Chapter 9 Exercies 4 Я ГОРЖУСЬ\x64\Debug\!Chapter 9 Exercies 4.exe
